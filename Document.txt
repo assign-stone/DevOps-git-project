@@ -1,7 +1,7 @@
 This is an introductory project designed to familiarize users with Git operations using AWS.
 
 
-Last login: Mon Sep 15 11:09:58 2025 from 152.58.31.249
+
    ,     #_
    ~\_  ####_        Amazon Linux 2023
   ~~  \_#####\
@@ -12,7 +12,10 @@ Last login: Mon Sep 15 11:09:58 2025 from 152.58.31.249
       ~~._.   _/
          _/ _/
        _/m/'
-Last login: Mon Sep 15 11:09:58 2025 from 152.58.31.249
+
+
+
+
 [ec2-user@ip-172-31-24-32 ~]$ pwd
 /home/ec2-user
 [ec2-user@ip-172-31-24-32 ~]$ git --version
