@@ -1,0 +1,7 @@
+sum = 0
+l = [1,2,3,4,5]
+for i in l:
+        sum=sum+i
+print(l)
+print("Sum of list l elements: ",sum)
+
